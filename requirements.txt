@@ -1,0 +1,17 @@
+dash
+pandas
+requests
+sys
+bs4
+re
+unicodedata
+folium
+matplotlib
+seaborn
+plotly
+dash_mantine_components
+dash_bootstrap_components
+datetime
+sklearn
+sqlalchemy
+warnings
